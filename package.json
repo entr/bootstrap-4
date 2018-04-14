@@ -75,7 +75,8 @@
   "version": "5.0.0-alpha18",
   "files": [
     "build",
-    "src/js/**/*.js",
+    "src/js",
+    "src/sass",
     "Gruntfile.js"
   ]
 }
